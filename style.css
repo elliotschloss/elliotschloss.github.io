@@ -1,0 +1,49 @@
+header {
+  background: url("https://i.ytimg.com/vi/cQNACPPGUA8/maxresdefault.jpg");
+  text-align: center;
+}
+
+
+header h1 {
+  color: white;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: blue;
+  box-shadow: white;
+  color: white;
+
+}
+
+header img {
+  height: 200px;
+  width: 200px;
+  border: 5px solid white;
+  border-radius: 50%;
+  margin-top: 50px;
+}
+
+ul {
+  background-color: #737;
+  padding: 20px;
+}
+
+li {
+  display: inline;
+  margin: 20px;
+}
+
+h1 {
+  font-size: 50px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+p {
+  font-size: 18px;
+  line-height: 1.6;
+  font-family: 'Montserrat', sans-serif;
+}
+
+div {
+  margin: 100px;
+}
